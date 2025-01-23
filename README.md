@@ -4,7 +4,7 @@ A swashbuckling navigation app for modern pirates, featuring authentic compass f
 
 ## Screenshot
 <div align="center">
-  <img src="https://i.ibb.co/Lv5tdgp/IMG-2158.jpg" alt="Pirate Compass Screenshot" width="1125" height="2436" />
+  <img src="https://i.ibb.co/GxbQQnY/IMG-2158-2.jpg" alt="Pirate Compass Screenshot" width="1125" height="1929" />
 </div>
 
 [Download Pirate Compass for Android](https://drive.google.com/uc?export=view&id=1yWWfDkkIpP3pjAtqtgkrnVwIUvTZDP9m)
