@@ -44,7 +44,7 @@ export const getDirectionText = (angle: number): CompassDirection => {
       return direction;
     }
   }
-  return 'Calm Seas';
+  return 'Nor\'';
 };
 
 // Format direction display with pirate lingo

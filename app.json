@@ -25,7 +25,19 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "fonts": ["./assets/fonts/PirataOne-Regular.ttf"]
+      "fonts": [
+        "./assets/fonts/PirataOne-Regular.ttf",
+        "./assets/fonts/PirataOne-Regular.ttf"
+      ],
+      "eas": {
+        "projectId": "1ce448e1-e0b0-430a-8618-2c3cd4573b54"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1ce448e1-e0b0-430a-8618-2c3cd4573b54"
     }
   }
 }
