@@ -4,7 +4,7 @@ A swashbuckling navigation app for modern pirates, featuring authentic compass f
 
 ## Screenshot
 <div align="center">
-  <img src="https://i.ibb.co/WGzNWk4/IMG-2157.jpg" alt="Pirate Compass Screenshot" width="500" />
+  <img src="https://i.ibb.co/Lv5tdgp/IMG-2158.jpg" alt="Pirate Compass Screenshot" width="1125" height="2436" />
 </div>
 
 [Download Pirate Compass for Android](https://drive.google.com/uc?export=view&id=1yWWfDkkIpP3pjAtqtgkrnVwIUvTZDP9m)
@@ -15,9 +15,10 @@ A swashbuckling navigation app for modern pirates, featuring authentic compass f
 
 <div align="center">
   <a href="https://expo.dev/preview/update?message=working%20compass&updateRuntimeVersion=1.0.0&createdAt=2025-01-23T03%3A22%3A33.553Z&slug=exp&projectId=1ce448e1-e0b0-430a-8618-2c3cd4573b54&group=b225d68a-6b81-4cd4-b2be-2904218c6b9e">
-    <img src="https://i.ibb.co/1TGMhbR/Screen-Shot-2025-01-22-at-11-13-38-PM.png" alt="QR Code" width="300" />
+    <img src="https://i.ibb.co/J7w9xQ5/Screen-Shot-2025-01-22-at-11-26-32-PM.png" alt="QR Code" width="300" />
   </a>
 </div>
+
 
 ## Features
 - Pirate-themed compass interface
@@ -29,7 +30,7 @@ A swashbuckling navigation app for modern pirates, featuring authentic compass f
 - Works offline
 
 
-## ⚙️Technology Stack
+## Technology Stack
 - React Native
 - Expo
 - expo-sensors
