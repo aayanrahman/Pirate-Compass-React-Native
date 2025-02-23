@@ -42,7 +42,7 @@ A swashbuckling navigation app for modern pirates, featuring authentic compass f
 
 ### Clone repository
 ```bash
-git clone https://github.com/yourusername/pirate-compass.git
+git clone https://github.com/aayanrahman/Pirate-Compass-React-Native.git
 ```
 
 ### Install dependencies
